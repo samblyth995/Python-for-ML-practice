@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../RL_Grid_Explorer"
+		},
+		{
+			"path": "../RL_Grid_Explorer/Value_nn"
+		}
+	],
+	"settings": {}
+}
