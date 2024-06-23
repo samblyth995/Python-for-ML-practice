@@ -1,5 +1,0 @@
-Feedback Index,Sentiment Polarity,Sentiment Subjectivity,Named Entities,Preferred Contact Method
-1,0.44,0.67,"[('Los Angeles', 'GPE')]",email
-2,0.14,0.45,"[('New York', 'GPE')]",email
-3,0.48,0.75,"[('San Francisco', 'GPE')]",chat
-4,-0.75,0.75,"[('Chicago', 'GPE')]",email
